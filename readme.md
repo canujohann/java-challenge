@@ -14,6 +14,6 @@ Application (with the H2 DB) is ready to be used ! You can access the url below 
 
 ### Instructions
 
-- Clone this project : (`git clone https://github.com/canujohann/java-challenge`) 
+- Fork this project
 - Enhance the code (add tests, change syntax, add comments, you are free !)
 - Make a PR on the original repo (`https://github.com/canujohann/java-challenge`) from github.com
